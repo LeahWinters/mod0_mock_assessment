@@ -1,0 +1,14 @@
+Class = Dog
+
+Attributes:
+Color (string)
+dogBreed (string)
+favToys (array)
+playsFetch (boolean)
+potty (boolean)
+
+Methods:
+sit
+bark
+stay
+fetch 
