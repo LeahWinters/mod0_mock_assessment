@@ -1,0 +1,13 @@
+Dog = Moose
+color: "golden"
+dogBreed: "Golden doodle"
+favToys: ["squish", "bone", "tennis ball"]
+playsFetch: True
+pottyTrained: True
+
+Dog = Sharky
+color: "brindle"
+dogBreed: "Bulldog"
+favToys: ["antler", "cow ear", "duckie"]
+playsFetch: False
+pottyTrained: True
