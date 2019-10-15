@@ -1,0 +1,24 @@
+How to make a sandwich:
+1.1 Gather all ingredients that you enjoy on your sandwich
+  1.1.1 Go to fridge
+    1.1.1.1 Get out meats of your choice
+    1.1.1.2 Get out cheese of your choice
+    1.1.1.3 Get out veggies of your choice
+    1.1.1.4 Get out condiments of your choice
+    1.1.1.5 Get out bread of your choice
+  1.1.2 Shut the fridge.
+2.1 Make sandwich
+  2.1.1 Take two slices of bread out of bag
+    2.1.1.1 Lay bread side by side on a plate
+  2.1.2 Open jar of mayo
+    2.1.2.1 Use a butter knife to scoop out desired amount
+    2.1.2.2 Spread onto the face of one slice of bread
+    2.1.2.3 Close jar of mayo
+  2.1.3 Pull out some lettuce
+    2.1.3.1 Place on top of bread slice with mayo
+  2.1.4 Pull out a slice or two of cheese
+    2.1.4.1 Place on top of lettuce
+  2.1.5 Get out 4-6 slices of meats
+    2.1.5.1 Place on top of cheese
+  2.1.6 Put remaining slice of bread on top of meat
+  2.1.7 Use butter knife to cut sandwich in half
